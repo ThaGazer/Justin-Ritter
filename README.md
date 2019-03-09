@@ -1,17 +1,12 @@
-# **Justin Ritter**
-
-21525 Spring Plaza Dr. #2302  
-Spring, Tx 77388
-
-## **Education**
+# **Education**
 
 - **Baylor University**-*Waco, TX*: Bachelor of Science, Computer Science
 
-## **Skills And Abilities**
+# **Skills And Abilities**
 
     C, C++, Objective C, Assembly, Java, JavaScript, TypeScript, Python, MySQL, Bash, Docker, OpenGL,  Microsoft Excel, Photoshop, network security, database management, technical writing, and time  management, team work, and problem solving.
 
-## **Projects**
+# **Projects**
 
 - **Senior Design** *Aug 2018-Dec 2018*
   - Built a leaning tool integration (LTI) plug in for learning management systems (LMS).  
@@ -30,7 +25,7 @@ Spring, Tx 77388
 - **RFID Tag Code** *Aug 2016‐ Dec 2016*
   - Collaborated on the creation of an RFID swiper to enhance the security of Baylor’s Learning  Research Center
 
-## **Work Experience**
+# **Work Experience**
 
 - **Computer Science Tutor:** Baylor University, Waco, TX *Aug 2016‐May 2017*
   - Tutored fellow computer science majors
