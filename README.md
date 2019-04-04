@@ -31,7 +31,7 @@
   - Tutored fellow computer science majors
   - Educated students on effective study skills and how to utilize a collaborative work environment.
   - Helped maintain the Learning Research Center’s equipment and kept organized records of  visitors.
-- **Retail Generalist:** Tom Thumb, Rowlett, TX *May 2015-May 2017*
+- **Retail Generalist:** Tom Thumb, Rowlett, TX *May 2015-Aug 2015*
   - Greeted and assisted customers to insure a positive retail experience.
   - Maintained and organized produce displays to increase sales.
 - **Sales Representative:** Vector Marketing, Plano, TX *June 2014-Aug 2014*
