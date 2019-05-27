@@ -14,8 +14,8 @@
 - **Graphics Design** *Aug 2018‐Dec 2018*
   - Replicated the Super Mario intro screen from the Nintendo 64.  
 - **Capture the Flag** *Jan 2017‐May 2017*
-  - Built a network and defended that network from hacking.
-  - Successfully took other teams’ resources offline.
+  - Built a network and defended it from hacking.
+  - Successfully knocked other teams’ resources offline.
 - **Website Design** *Aug 2017‐Dec 2017*
   - Collaborated with [Credera](https://www.credera.com/) to create a pod‐surfing website which allowed users to search and  listen to podcasts
   - Led weekly scrum meetings to facilitate teamwork and guide time management.
